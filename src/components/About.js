@@ -50,17 +50,18 @@ class About extends Component {
         return (
             <section>
                 <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-                    <div class="w-100">{this.state.firstName}
-                        <h3 class="mb-0">{this.state.lastName}
+                    <div class="w-100">
+                        <p id="firstName">{this.state.firstName}</p>
+                        <h3 class="mb-0  d-none d-lg-block" id="lastName">{this.state.lastName}
                             <span class="text-primary"></span>
                         </h3>
                         {/* <div class="subheading mb-5">{this.state.address} (317) 585-8468 · */}
-                        <div class="subheading mb-5">{this.state.address} {this.state.phoneNumber}
+                        <div class="subheading mb-5  d-none d-lg-block">{this.state.address} {this.state.phoneNumber}
                             <a href="mailto:name@email.com">{this.state.email}</a>
                         </div>
                         <h4>{this.state.objective}</h4>
                         <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
-                        <div className="social-icons">
+                        <div className="social-icons d-none d-lg-block">
 
                             <a href={this.state.socials.linkedin}>
                                 {/* <i className="fab fa-linkedin-in"></i> */}
