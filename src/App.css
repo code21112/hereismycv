@@ -224,8 +224,21 @@ a:hover, a:focus, a:active {
 #firstName {
   padding-bottom: 0px;
   margin-bottom: 0px;
+  padding-top: 50px;
 }
 
 #lastName {
   padding-bottom: 10px;
+}
+
+#objective {
+  padding-top: 30px;
+}
+#objectiveSmallDevices {
+  padding-top: 90px;
+}
+
+#email {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
