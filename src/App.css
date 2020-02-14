@@ -213,6 +213,19 @@ a:hover, a:focus, a:active {
   padding-top: 7px !important;
 }
 
+.padding-top-mobile {
+  padding-top: 3 rem !important;
+}
+
 .oblique {
   font-style: oblique;
+}
+
+#firstName {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#lastName {
+  padding-bottom: 10px;
 }
