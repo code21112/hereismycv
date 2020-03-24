@@ -65,10 +65,10 @@ class About extends Component {
                         <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
                         <div className="social-icons">
 
-                            <a href={this.state.socials.linkedin}>
-                                {/* <i className="fab fa-linkedin-in"></i> */}
-                                <FontAwesomeIcon className="fab" icon={faLinkedin} />
-                            </a>
+                            {/* <a href={this.state.socials.linkedin}> */}
+                            {/* <i className="fab fa-linkedin-in"></i> */}
+                            {/* <FontAwesomeIcon className="fab" icon={faLinkedin} /> */}
+                            {/* </a> */}
                             <a href={this.state.socials.github}>
                                 {/* <i class="fab fa-github"></i> */}
                                 <FontAwesomeIcon className="fab" icon={faGithubSquare} />

@@ -9,19 +9,26 @@ const education = [
         dates: 'September 2019 - December 2019'
     },
     {
+        school: 'Le Wagon',
+        degree: '',
+        description: 'IT bootcamp on Ruby & Ruby on Rails',
+        grade: '',
+        dates: 'July 2019 - September 2019'
+    },
+    {
         school: 'École nationale des Finances publiques',
         degree: '',
         description: 'One-year French service public scolarship for new IRS inspectors',
         grade: '',
         dates: 'September 2014 - September 2015'
     },
-    {
-        school: 'Conservatoire national des Arts et métiers',
-        degree: 'Master of Ergonomics',
-        description: '',
-        grade: '',
-        dates: 'Octobre 2012 - October 2013'
-    },
+    // {
+    //     school: 'Conservatoire national des Arts et métiers',
+    //     degree: 'Master of Ergonomics',
+    //     description: '',
+    //     grade: '',
+    //     dates: 'Octobre 2012 - October 2013'
+    // },
     {
         school: 'IAE / Sorbonne graduate business school',
         degree: 'Master of business administration',
@@ -41,7 +48,7 @@ const education = [
         degree: '',
         description: 'Professional degree on client-service management',
         grade: '',
-        dates: 'November 2008 - March 2009'
+        dates: 'November 2008 - May 2009'
     },
 ]
 

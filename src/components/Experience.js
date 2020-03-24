@@ -57,7 +57,7 @@ const experiences = [
             "Modified client's regarding legislative change and client's needs.",
             "Controlled calls quality."
         ],
-        dates: 'February 2007 - May 2009',
+        dates: 'March 2007 - May 2009',
     },
     {
         title: 'Service-client manager',
