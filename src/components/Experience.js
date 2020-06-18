@@ -12,15 +12,15 @@ const experiences = [
         dates: 'September 2014 - Present',
     },
     {
-        title: 'Ergonomics specialist intern',
-        heading: 'Cassidian - EADS',
+        title: 'hHR & Ergonomics specialist',
+        heading: 'Airbus (formerly EADS)',
         description: [
             "Supported design solution process with French ergonomics’ methodology.",
         ],
         dates: 'April 2013 - November 2013',
     },
     {
-        title: 'Campus manager',
+        title: 'HR marketing / Campus manager',
         heading: 'Veolia environnement',
         description: [
             "Organized Veolia’s participating to higher education job fairs with its 4 divisions represented.",
