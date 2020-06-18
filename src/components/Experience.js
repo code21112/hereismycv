@@ -12,7 +12,7 @@ const experiences = [
         dates: 'September 2014 - Present',
     },
     {
-        title: 'hHR & Ergonomics specialist',
+        title: 'HR & Ergonomics specialist',
         heading: 'Airbus (formerly EADS)',
         description: [
             "Supported design solution process with French ergonomics’ methodology.",
